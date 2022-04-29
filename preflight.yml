@@ -5,7 +5,7 @@
     - lldp
     - get_settings
     - obm
-    - firemware
+    - firmware
     - storage
     - remove_preflight
     - power_reset
