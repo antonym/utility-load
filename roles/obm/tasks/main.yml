@@ -1,0 +1,4 @@
+---
+- name: Out of Band Managmenet
+  debug:
+    msg: "Configuring Out of Band Management..."

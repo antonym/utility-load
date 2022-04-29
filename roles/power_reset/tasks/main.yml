@@ -1,0 +1,4 @@
+---
+- name: Power reset
+  debug:
+    msg: "Resetting power..."

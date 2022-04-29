@@ -2,4 +2,10 @@
 - hosts: all
   user: root
   roles:
+    - lldp
     - get_settings
+    - obm
+    - firemware
+    - storage
+    - remove_preflight
+    - power_reset

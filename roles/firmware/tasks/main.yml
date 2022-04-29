@@ -1,0 +1,4 @@
+---
+- name: Firmware
+  debug:
+    msg: "Running firmware tasks..."

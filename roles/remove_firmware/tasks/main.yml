@@ -1,0 +1,4 @@
+---
+- name: Removing firmware task
+  debug:
+    msg: "Removing firmware task..."

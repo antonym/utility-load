@@ -1,0 +1,4 @@
+---
+- name: Storage
+  debug:
+    msg: "Running storage configuration tasks..."

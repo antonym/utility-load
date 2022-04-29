@@ -1,4 +1,4 @@
 ---
-- name: Print Hello
-  debug: 
-    msg: "Hello from utility"
+- name: Get settings
+  debug:
+    msg: "Retrieving any external settings to run..."

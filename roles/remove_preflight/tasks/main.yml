@@ -1,0 +1,4 @@
+---
+- name: Removing preflight task
+  debug:
+    msg: "Removing preflight task..."
