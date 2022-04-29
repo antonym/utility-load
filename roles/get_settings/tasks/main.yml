@@ -1,3 +1,4 @@
 ---
 - name: Print Hello
-  debug: "msg=Hello from utility"
+  debug: 
+    msg: "Hello from utility"
